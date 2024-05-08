@@ -1,5 +1,3 @@
-Here's a README.md template for the GitHub repository based on your specifications for the "Machine Learning with Salary Prediction" project focusing on baseball player statistics from 1986:
-
 ```markdown
 # Machine Learning with Salary Prediction
 
